@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/huddle-landing-challenge/static/css/main.727ee599.chunk.css",
+    "main.css": "/huddle-landing-challenge/static/css/main.1f9a12e8.chunk.css",
     "main.js": "/huddle-landing-challenge/static/js/main.e7d1afd9.chunk.js",
     "main.js.map": "/huddle-landing-challenge/static/js/main.e7d1afd9.chunk.js.map",
     "runtime-main.js": "/huddle-landing-challenge/static/js/runtime-main.5d5c61a5.js",
@@ -8,14 +8,13 @@
     "static/js/2.68f7cea7.chunk.js": "/huddle-landing-challenge/static/js/2.68f7cea7.chunk.js",
     "static/js/2.68f7cea7.chunk.js.map": "/huddle-landing-challenge/static/js/2.68f7cea7.chunk.js.map",
     "index.html": "/huddle-landing-challenge/index.html",
-    "static/css/main.727ee599.chunk.css.map": "/huddle-landing-challenge/static/css/main.727ee599.chunk.css.map",
-    "static/js/2.68f7cea7.chunk.js.LICENSE.txt": "/huddle-landing-challenge/static/js/2.68f7cea7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/huddle-landing-challenge/static/media/bg-mobile.41ba0830.svg"
+    "static/css/main.1f9a12e8.chunk.css.map": "/huddle-landing-challenge/static/css/main.1f9a12e8.chunk.css.map",
+    "static/js/2.68f7cea7.chunk.js.LICENSE.txt": "/huddle-landing-challenge/static/js/2.68f7cea7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5d5c61a5.js",
     "static/js/2.68f7cea7.chunk.js",
-    "static/css/main.727ee599.chunk.css",
+    "static/css/main.1f9a12e8.chunk.css",
     "static/js/main.e7d1afd9.chunk.js"
   ]
 }
